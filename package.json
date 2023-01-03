@@ -11,7 +11,7 @@
   "dependencies": {
     "axios": "^0.21.1",
     "core-js": "^3.8.2",
-    "nuxt": "^2.14.12",
+    "nuxt": "^3.0.0",
     "quill-better-table": "^1.2.10",
     "vue-quill-editor": "^3.0.6"
   },
